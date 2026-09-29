@@ -1,0 +1,4 @@
+echo "Name: Steven" > student.txt
+echo "Student number: A00055258" >> student.txt
+echo "Course code: TU859" >> student.txt
+git status
